@@ -142,7 +142,7 @@ streamlit run app.py
 - [ ] Incorporate GOES X-ray flux time-series for richer input features
 - [ ] Experiment with LSTM/GRU networks for sequential pattern modelling
 - [ ] Add solar cycle phase as a feature (sunspot number integration)
-- [ ] Deploy dashboard to Streamlit Cloud for public access
+- [x] Deploy dashboard to Streamlit Cloud for public access
 
 ---
 
